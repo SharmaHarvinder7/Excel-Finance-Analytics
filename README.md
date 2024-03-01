@@ -11,7 +11,7 @@
    **3.** GM% reports by [Quarters](https://github.com/SharmaHarvinder7/Excel-Finance-Analytics/blob/main/GM%25%20by%20Quarters.pdf
 )
 
-   **.4** Created Profit and Loss (P&L) reports by [Region](https://github.com/SharmaHarvinder7/Excel-Finance-Analytics/blob/main/P%26L%20by%20Region%20FY.pdf
+   **4.** Created Profit and Loss (P&L) reports by [Region](https://github.com/SharmaHarvinder7/Excel-Finance-Analytics/blob/main/P%26L%20by%20Region%20FY.pdf
 )
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
